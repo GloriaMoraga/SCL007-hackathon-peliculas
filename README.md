@@ -94,3 +94,8 @@ La feria de demos se realizará el día de las presentaciones, consiste en la di
 
 * Las demos no deben durar más de 3 minutos y deben mostrar el producto y las tecnologías usadas.
 * Los asistentes van a votar por los 5 equipos finalistas, quienes tendrán la oportunidad de hacer su demo a todo el público para poder elegir un ganador. 
+
+PRUEBA
+
+
+
