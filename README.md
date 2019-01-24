@@ -15,17 +15,19 @@ Se busco un diseño simple, donde siempre se destacara la imagen femenina relaci
 
 https://trello.com/b/Idjgbx9O/peliculas
 
+
 ### Prototipo de alta fidelidad: Figma ###
 
 https://www.figma.com/proto/JvM6ZaEKPEooNDMDetlLQXXw/Untitled?node-id=37%3A2&scaling=min-zoom
 
 
 
-# Ux Designer #
+
+### Ux Designer ###
 
 * Andrea De Miranda
 
-# Front-End #
+### Front-End ###
 
 * Gloria Moraga
 * Sarays Guarguana
