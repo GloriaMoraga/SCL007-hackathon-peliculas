@@ -5,6 +5,7 @@
   height: 100vh;
   
 }
+
 .margin-button{
     margin-bottom: 10px;
 }
@@ -32,10 +33,10 @@ ul li {
 .row-padding{
     padding: 50px;
 
-
 }
 .margen{
     margin-top: 50px;
+
 
 
 }
@@ -44,7 +45,7 @@ ul li {
     max-height: 80%!important;
 }
 .showFilterMovies{
-  
+
     height: 500px;
     overflow-y: scroll;
 }
@@ -54,4 +55,17 @@ nav {
 }
 .btn-filter li{
     display: inline;
+
 }
+
+#icon {
+  margin-left: 10px;
+}
+
+#phrase {
+  font: Bookman L, serif;
+  font-size: 70px;
+}
+
+}
+
