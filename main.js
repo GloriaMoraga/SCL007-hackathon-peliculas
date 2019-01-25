@@ -25,12 +25,7 @@ cardCreate=(data)=>{
               <i class="material-icons" id="icon">fitness_center</i><a>12</a>
               </div>
         </div>
-      </div>
-
-
-
-
-          `;
+      </div> `
       }
 
 // Probando Data desde OMDB, solo funcion Data con ¿console Log?
@@ -126,7 +121,7 @@ const smileMovies =['tt3316960','tt0031381','tt0096463','tt0092605','tt0195685',
 
 document.getElementById("liberation").addEventListener("click", () => {
     femeMoviefour ()
-
+    document.getElementById('allMovies').innerHTML  = '';
    
    })
 const liberationMovies =['tt0266697','tt1568346','tt1454029', 'tt1217209', 'tt3521164', 'tt0089755', 'tt1186830', 'tt0278435']
@@ -171,12 +166,6 @@ const achieveMovies =['tt0879870', 'tt1587310']
 document.getElementById("all").addEventListener("click", () => {
    femeMovieall()
    document.getElementById('allMovies').innerHTML  = '';
-
-      
-   });
-   }
-   
-
 
   })
 const allMovies = ['tt0879870', 'tt0304415', 'tt1217209','tt2294629', 'tt0185125', 'tt4677348', 'tt0211915','tt6045466', 'tt2446980', 'tt1365519','tt0356910','tt0212346','tt0105417','tt3521164','tt0213847','tt0458352',
