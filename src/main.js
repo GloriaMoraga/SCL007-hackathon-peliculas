@@ -23,6 +23,7 @@ cardCreate=(data)=>{
               <i class="material-icons" id="icon">tag_faces</i><a>10</a>
               <i class="material-icons" id="icon">favorite_border</i><a>8</a>
               <i class="material-icons" id="icon">fitness_center</i><a>12</a>
+              <p><a target="_blank" href="https://www.youtube.com/watch?v=QU6LBjq7Mzw">Mirala Aqui</a></p>
               </div>
         </div>
       </div> `
