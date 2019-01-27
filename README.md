@@ -1,8 +1,10 @@
-# Movie Power
 
+<p align="center">
+    <img src="femeflix.png">
+</p>
 ### Definición del producto
 
-Movie Power es una aplicación que a partir de 5 géneros cinematográficos dirigidos a mujeres, te permitirá conocer historias de otras mujeres que te inspirarán. Movie Power también acepta la valoración de los films vs el nuevo género propuesto.
+Femflix es una aplicación que a partir de 5 géneros cinematográficos dirigidos a mujeres, te permitirá conocer historias de otras mujeres que te inspirarán. Movie Power también acepta la valoración de los films vs el nuevo género propuesto.
 Es una propuesta para la valoración del género femenino a través del cine.
  
 **Proceso y decisiones del diseño**
@@ -14,13 +16,6 @@ Se busco un diseño simple, donde siempre se destacara la imagen femenina relaci
 ### Link Trello ###
 
 https://trello.com/b/Idjgbx9O/peliculas
-
-
-### Prototipo de alta fidelidad: Figma ###
-
-https://www.figma.com/proto/JvM6ZaEKPEooNDMDetlLQXXw/Untitled?node-id=37%3A2&scaling=min-zoom
-
-
 
 
 ### Ux Designer ###
