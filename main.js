@@ -18,7 +18,8 @@ cardCreate=(data)=>{
               <p>Director : ${data.Director}</p>
               <p>${data.Plot}</p>
               <p>IMDB : ${data.imdbRating}</p>
-
+              <br>
+              <p class="purple-text">¿Que sentimiento te provoco esta pelicula?</p>
               <i class="material-icons" id="icon">sentiment_very_dissatisfied</i><a>15</a>
               <i class="material-icons" id="icon">tag_faces</i><a>10</a>
               <i class="material-icons" id="icon">favorite_border</i><a>8</a>
