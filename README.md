@@ -1,10 +1,10 @@
 
 <p align="center">
-    <img src="femeflix.png">
+    <img src="Femflix.png">
 </p>
 ### Definición del producto
 
-Femflix es una aplicación que a partir de 5 géneros cinematográficos dirigidos a mujeres, te permitirá conocer historias de otras mujeres que te inspirarán. Movie Power también acepta la valoración de los films vs el nuevo género propuesto.
+Femflix es una aplicación que a partir de 5 géneros cinematográficos dirigidos a mujeres, te permitirá conocer historias de otras mujeres que te inspirarán. Femeflix también acepta la valoración de los films vs el nuevo género propuesto.
 Es una propuesta para la valoración del género femenino a través del cine.
  
 **Proceso y decisiones del diseño**
